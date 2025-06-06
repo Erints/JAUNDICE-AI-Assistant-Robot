@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Arin T S (aka Erints)
+# 👋 Hey there, I'm Arin T S (Erints)
 
 🎓 Robotics Engineering Student at Saintgits College  
 🤖 Passionate about smart machines, AI, and automation  
